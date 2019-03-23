@@ -1,1 +1,1 @@
-# coursera deep-learning project
+# coursera deeplearning project
